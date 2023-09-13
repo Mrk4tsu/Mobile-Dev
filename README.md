@@ -2,5 +2,5 @@
 > Sinh viên: Nguyễn Đức Thắng 63 CNTT-CLC 2
  ## Install:
  - Android Studio
- - Android 7.0 (Nougat)
+ - Android 7.0 (Nougat API 24)
  - Java SE Development Kit (8u77)
