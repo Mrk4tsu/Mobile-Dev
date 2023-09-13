@@ -1,6 +1,6 @@
 # 63CNTT-Mobile-Dev: LẬP TRÌNH ỨNG DỤNG MOBILE
-> By: Nguyễn Đức Thắng
+> Sinh viên: Nguyễn Đức Thắng 63 CNTT-CLC 2
  ## Install:
- - Android Sudio
- - Android 7.0 (Nougat)
+ - Android Studio
+ - Android 7.0 (Nougat API 24)
  - Java SE Development Kit (8u77)
