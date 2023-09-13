@@ -1,4 +1,4 @@
-# Mobile-Dev: LẬP TRÌNH ỨNG DỤNG MOBILE
+# 63CNTT-Mobile-Dev: LẬP TRÌNH ỨNG DỤNG MOBILE
  ## Install:
  - Android Sudio
  - Android 7.0 (Nougat)
