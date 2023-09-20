@@ -17,7 +17,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:backgroundTint="#009688"
+        android:backgroundTint="#00FFE7"
         android:textColor="@color/white"
         android:text="Button #2" />
 
