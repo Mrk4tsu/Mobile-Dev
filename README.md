@@ -16,6 +16,7 @@
   ![image](https://media.discordapp.net/attachments/1023849047045447700/1154044897104494642/image.png?width=820&height=567)
 
   *** Kết quả: ***
+  
   ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1154045288487592037/image.png)
 
   - Để xem các phần phía dưới, ta sử dụng 1 ***ScrollView***
