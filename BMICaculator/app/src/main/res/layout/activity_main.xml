@@ -25,44 +25,45 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="50px"
                 android:layout_marginStart="100px"
+                android:layout_marginTop="50px"
                 android:gravity="center|left"
                 android:text="Your Heigh In CM"
                 android:textColor="@color/black"
                 android:textSize="17sp" />
 
             <EditText
+                android:id="@+id/editTextHeight"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_marginStart="100px"
                 android:layout_marginTop="10px"
                 android:layout_marginEnd="100px"
-                android:text="36"
                 android:paddingStart="20dp"
-                android:textSize="20sp" />
+                android:textSize="@dimen/edit_text" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="50px"
                 android:layout_marginStart="100px"
+                android:layout_marginTop="50px"
                 android:gravity="center|left"
                 android:text="Your weigh in KG"
                 android:textColor="@color/black"
                 android:textSize="17sp" />
 
             <EditText
+                android:id="@+id/editTextWeight"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_marginStart="100px"
                 android:layout_marginTop="10px"
                 android:layout_marginEnd="100px"
-                android:text="64"
                 android:paddingStart="20dp"
-                android:textSize="20sp" />
+                android:textSize="@dimen/edit_text" />
 
             <Button
+                android:id="@+id/buttonCalculate"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="100px"
@@ -79,6 +80,7 @@
                 android:textSize="24sp" />
 
             <TextView
+                android:id="@+id/textViewResult"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
@@ -87,6 +89,7 @@
                 android:textSize="24sp" />
 
             <TextView
+                android:id="@+id/textViewResultString"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
