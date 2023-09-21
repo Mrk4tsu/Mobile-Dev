@@ -11,6 +11,6 @@
 
  ### Bài 2 - BMI Caculator (Giao diện)
  ### [Chi tiết bài tập](https://github.com/Mrk4tsu/Mobile-Dev/tree/BMI-Caculator#bmi-caculator-giao-di%E1%BB%87n)
- ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1154037864972177498/image.png)
+ ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1154331276501856317/image.png)
 
 
