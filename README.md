@@ -19,7 +19,7 @@
  ### ex.no.1
  ![image](https://media.discordapp.net/attachments/1023849047045447700/1155367379187011704/image.png?width=1252&height=670)
 
- ### ex.no.1
+ ### 8* LinearLayout
  ### [Chi tiết bài tập](https://github.com/Mrk4tsu/Mobile-Dev/tree/ex.no.1#63cntt-mobile-dev-l%E1%BA%ADp-tr%C3%ACnh-%E1%BB%A9ng-d%E1%BB%A5ng-mobile)
  ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1155384740745068544/image.png)
 
