@@ -6,21 +6,15 @@
  - Java SE Development Kit (8u77)
 
  ***Quá trình thực hiện bài tập***
- ### About me (Giao diện)
- ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1154037864972177498/image.png)
+ ### Gom từng phần có liên quan vào 1 layout
+ ![image](https://cdn.discordapp.com/attachments/1021667948542312452/1155488159887544370/Khong_Co_Tieu_e350_20230924195654.png)
 
- ### BMI Caculator
- ### [Chi tiết bài tập](https://github.com/Mrk4tsu/Mobile-Dev/tree/BMI-Caculator#bmi-caculator-giao-di%E1%BB%87n)
- ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1154331276501856317/image.png)
+ ### Chia layout ra từng phần (weight)
+ ![image](https://cdn.discordapp.com/attachments/1021667948542312452/1155488173674201118/Khong_Co_Tieu_e351_20230924195637.png)
 
- ### ex.no.3
- ![image](https://media.discordapp.net/attachments/1023849047045447700/1155358712249200680/image.png?width=1248&height=670)
+ ### Tạo icon và thành quả
+ Thêm các icon bằng cách R_click -> Add -> Asset Vector
+ ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1155480862167670866/image.png)
 
- ### ex.no.1
- ![image](https://media.discordapp.net/attachments/1023849047045447700/1155367379187011704/image.png?width=1252&height=670)
-
- ### 8* LinearLayout
- ### [Chi tiết bài tập](https://github.com/Mrk4tsu/Mobile-Dev/tree/ex.no.1#63cntt-mobile-dev-l%E1%BA%ADp-tr%C3%ACnh-%E1%BB%A9ng-d%E1%BB%A5ng-mobile)
- ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1155384740745068544/image.png)
 
 
