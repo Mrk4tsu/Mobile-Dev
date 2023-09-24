@@ -13,4 +13,7 @@
  ### [Chi tiết bài tập](https://github.com/Mrk4tsu/Mobile-Dev/tree/BMI-Caculator#bmi-caculator-giao-di%E1%BB%87n)
  ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1154331276501856317/image.png)
 
+ ### Bài 3 - ex.no.3
+ ![image](https://media.discordapp.net/attachments/1023849047045447700/1155358712249200680/image.png?width=1248&height=670)
+
 
