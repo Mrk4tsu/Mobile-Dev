@@ -23,4 +23,8 @@
  ### [Chi tiết bài tập](https://github.com/Mrk4tsu/Mobile-Dev/tree/ex.no.1#63cntt-mobile-dev-l%E1%BA%ADp-tr%C3%ACnh-%E1%BB%A9ng-d%E1%BB%A5ng-mobile)
  ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1155384740745068544/image.png)
 
+  ### 9* LinearLayout
+ ### [Chi tiết bài tập](https://github.com/Mrk4tsu/Mobile-Dev/tree/Bai9-LinearLayout#63cntt-mobile-dev-l%E1%BA%ADp-tr%C3%ACnh-%E1%BB%A9ng-d%E1%BB%A5ng-mobile)
+ ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1155480862167670866/image.png)
+
 
