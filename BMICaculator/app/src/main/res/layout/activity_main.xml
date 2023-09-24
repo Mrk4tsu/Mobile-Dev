@@ -43,7 +43,7 @@
                 android:layout_marginEnd="100px"
                 android:paddingStart="20dp"
                 android:textSize="@dimen/edit_text"
-                android:text="45"/>
+                />
 
             <TextView
                 android:layout_width="match_parent"
