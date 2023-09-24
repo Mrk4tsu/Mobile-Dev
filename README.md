@@ -13,7 +13,7 @@
  ![image](https://cdn.discordapp.com/attachments/1021667948542312452/1155488173674201118/Khong_Co_Tieu_e351_20230924195637.png)
 
  ### Tạo icon và thành quả
- Thêm các icon bằng cách R_click -> Add -> Asset Vector
+ Thêm các icon vào trong ***drawable*** bằng cách R_click -> Add -> Asset Vector. Như vậy ta có các hình ảnh tương ứng với các layout
  ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1155480862167670866/image.png)
 
 
