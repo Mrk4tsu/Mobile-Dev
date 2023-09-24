@@ -6,11 +6,24 @@
  - Java SE Development Kit (8u77)
 
  ***Quá trình thực hiện bài tập***
- ### Bài 1 - About me (Giao diện)
- ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1154037864972177498/image.png)
+ ### Hàng đầu tiên
+ ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1155443560179568650/code.png)
 
- ### Bài 2 - BMI Caculator (Giao diện)
- ### [Chi tiết bài tập](https://github.com/Mrk4tsu/Mobile-Dev/tree/BMI-Caculator#bmi-caculator-giao-di%E1%BB%87n)
- ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1154331276501856317/image.png)
+ ### Hàng tiếp theo
+ ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1155444499804340244/code.png)
+
+ ### 4 hàng button 
+ Sẽ gom lại trong 1 LinearLayout
+ ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1155451085423661106/code.png)
+ Trong layout này sẽ lại chia ra 4 hàng có weight = 0.8 như đề bài, mỗi cột sẽ là 0.25, tương đương mỗi button = 0.25
+ 
+![image](https://cdn.discordapp.com/attachments/1023849047045447700/1155452754475630643/code.png)
+
+## Custom Button
+![image](https://cdn.discordapp.com/attachments/1023849047045447700/1155453284014886942/code.png)
+Tạo 1 file XML trong drawable để custom lại button.
+
+### Kết quả
+![image](https://cdn.discordapp.com/attachments/1023849047045447700/1155384740745068544/image.png)
 
 
