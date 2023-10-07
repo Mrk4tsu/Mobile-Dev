@@ -31,19 +31,19 @@
         });
     }
     ```
-    ***Khi người dùng click vào button giới tính, dòng hiển thị giới tính sẽ in ra màn hình giới tính mà người dùng đã chọn***
+***Khi người dùng click vào button giới tính, dòng hiển thị giới tính sẽ in ra màn hình giới tính mà người dùng đã chọn***
    ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1160148667508981821/image.png?ex=65339ba4&is=652126a4&hm=aba4c87e9d23d28b97df9f397207f9b91f332b3a4bf1a8fbd9acc386691d7956&)
     
   *Sự kiện nếu người dùng nhập thiếu thông tin*
-    ```java
+   ```java
     editTextHeight.getText().toString().isEmpty()
-    ```
-    Kiểm tra **isEmpty()** thì sẽ hủy tính toán, khi đó 1 toast sẽ hiển thị thông báo cho người dùng biết
+   ```
+   - Kiểm tra **isEmpty()** thì sẽ hủy tính toán, khi đó 1 toast sẽ hiển thị thông báo cho người dùng biết
   ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1160143155337908264/image.png?ex=65339682&is=65212182&hm=7e95ae96e01f0c1bdb7ea55a0751d41ce9ebddb644970e7af8c1831c46e79cab&)
 
    *Sự kiện chuyển đổi dữ liệu qua `radio button`*
    
-    ```java
+   ```java
     void checkChangeRadioButton() {
         radioGroup.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
             @Override
@@ -60,7 +60,7 @@
             }
         });
     }
-    ```
+   ```
     
    ***Nếu chọn đơn vị chiều cao là INCH thì sẽ chuyển qua phương pháp tính INCH, ngược lại. Thực ra BMI sẽ cùng 1 công thức, tuy nhiên sẽ xử lý dữ liệu nhập vào***
    ***1 inch = 2.54 centimeters***
