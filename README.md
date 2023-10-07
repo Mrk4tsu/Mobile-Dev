@@ -6,9 +6,6 @@
  - Java SE Development Kit (8u77)
 
  ***Quá trình thực hiện bài tập***
- ### About me (Giao diện)
- ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1154037864972177498/image.png)
-
  ### BMI Caculator [Update 10/7 - Thêm xử lý sự kiện]
  ### [Chi tiết bài tập](https://github.com/Mrk4tsu/Mobile-Dev/tree/BMI-Caculator#bmi-caculator-giao-di%E1%BB%87n)
  ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1160140234114211870/image.png?ex=653393ca&is=65211eca&hm=0661e674dd816975c7465ea5b4ef8ec719cf3434c17d752f32bcc42c89d0f118&)
