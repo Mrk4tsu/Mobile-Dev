@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
                 String getNumber1 = editTextNumber1.getText().toString();
                 String getNumber2 = editTextNumber2.getText().toString();
                 if (getNumber1.isEmpty() || getNumber2.isEmpty()){
-                    Toast.makeText(MainActivity.this, info, Toast.LENGTH_LONG).show();
+                    Toast.makeText(MainActivity.this, info, Toast.LENGTH_SHORT).show();
                     return;
                 }
                 float num1 = Float.parseFloat(getNumber1);
@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
                 String getNumber1 = editTextNumber1.getText().toString();
                 String getNumber2 = editTextNumber2.getText().toString();
                 if (getNumber1.isEmpty() || getNumber2.isEmpty()){
-                    Toast.makeText(MainActivity.this, info, Toast.LENGTH_LONG).show();
+                    Toast.makeText(MainActivity.this, info, Toast.LENGTH_SHORT).show();
                     return;
                 }
                 float num1 = Float.parseFloat(getNumber1);
@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
                 String getNumber1 = editTextNumber1.getText().toString();
                 String getNumber2 = editTextNumber2.getText().toString();
                 if (getNumber1.isEmpty() || getNumber2.isEmpty()){
-                    Toast.makeText(MainActivity.this, info, Toast.LENGTH_LONG).show();
+                    Toast.makeText(MainActivity.this, info, Toast.LENGTH_SHORT).show();
                     return;
                 }
                 float num1 = Float.parseFloat(getNumber1);
@@ -104,14 +104,14 @@ public class MainActivity extends AppCompatActivity {
                 String getNumber1 = editTextNumber1.getText().toString();
                 String getNumber2 = editTextNumber2.getText().toString();
                 if (getNumber1.isEmpty() || getNumber2.isEmpty()){
-                    Toast.makeText(MainActivity.this, info, Toast.LENGTH_LONG).show();
+                    Toast.makeText(MainActivity.this, info, Toast.LENGTH_SHORT).show();
                     return;
                 }
                 float num1 = Float.parseFloat(getNumber1);
                 float num2 = Float.parseFloat(getNumber2);
                 if(num2 == 0){
                     info = "Không thể chia với số 0";
-                    Toast.makeText(MainActivity.this, info, Toast.LENGTH_LONG).show();
+                    Toast.makeText(MainActivity.this, info, Toast.LENGTH_SHORT).show();
                     return;
                 }
                 float divide = num1 / num2;
