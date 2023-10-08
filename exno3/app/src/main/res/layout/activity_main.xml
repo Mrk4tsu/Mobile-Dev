@@ -28,15 +28,38 @@
             android:orientation="vertical"
             android:padding="40dp"
             android:background="@color/darker">
-            <TextView
-                android:id="@+id/dataInput"
+            <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textSize="@dimen/textSize"
-                android:textColor="@color/light_grey"
-                android:text="@string/data"
-                android:gravity="end"/>
-
+                android:gravity="end"
+                android:orientation="horizontal">
+                <TextView
+                    android:id="@+id/number1"
+                    android:textSize="@dimen/textSize"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/num1"
+                    android:textColor="@color/grey"
+                    android:gravity="center"/>
+                <TextView
+                    android:id="@+id/math"
+                    android:textSize="@dimen/textSize"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/math"
+                    android:textColor="@color/teal_700"
+                    android:layout_marginStart="4dp"
+                    android:layout_marginEnd="4dp"
+                    android:gravity="center"/>
+                <TextView
+                    android:id="@+id/number2"
+                    android:textSize="@dimen/textSize"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/num1"
+                    android:textColor="@color/grey"
+                    android:gravity="center"/>
+            </LinearLayout>
             <TextView
                 android:id="@+id/resultCalculate"
                 android:layout_width="match_parent"
@@ -46,8 +69,16 @@
                 android:text="@string/dataResult"
                 android:gravity="end" />
         </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textSize"
+            android:text="@string/title3"
+            android:gravity="center"
+            android:padding="10dp"/>
         <EditText
-            android:id="@+id/inputNumber1"
+            android:id="@+id/editTextNumber1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/input_number1"
@@ -56,13 +87,12 @@
             android:drawableStart="@drawable/ic_number_1"
             android:drawablePadding="15dp"
             android:padding="20dp"
-            android:layout_marginStart="40dp"
-            android:layout_marginEnd="40dp"
-            android:textSize="@dimen/textSize"
-            android:autofillHints=""
-            tools:ignore="TextFields" />
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:maxLength="20"
+            android:textSize="@dimen/textSize" />
         <EditText
-            android:id="@+id/inputNumber2"
+            android:id="@+id/editTextNumber2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/input_number2"
@@ -71,7 +101,8 @@
             android:drawableStart="@drawable/ic_number_2"
             android:drawablePadding="15dp"
             android:padding="20dp"
-            android:layout_margin="40dp"
+            android:layout_margin="20dp"
+            android:maxLength="20"
             android:textSize="@dimen/textSize" />
         <TextView
             android:layout_width="match_parent"
@@ -86,6 +117,7 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal">
             <Button
+                android:id="@+id/btnAdd"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="0.25"
@@ -97,6 +129,7 @@
                 android:textSize="@dimen/textButton"
                 android:background="@drawable/radius_button"/>
             <Button
+                android:id="@+id/btnMinus"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="0.25"
@@ -108,6 +141,7 @@
                 android:textSize="@dimen/textButton"
                 android:background="@drawable/radius_button"/>
             <Button
+                android:id="@+id/btnMulti"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="0.25"
@@ -119,6 +153,7 @@
                 android:textSize="@dimen/textButton"
                 android:background="@drawable/radius_button"/>
             <Button
+                android:id="@+id/btnDivide"
                 android:layout_width="0dp"
                 android:layout_height="70dp"
                 android:layout_weight="0.25"
