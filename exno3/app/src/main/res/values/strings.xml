@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">ex.no.3</string>
+    <string name="app_name">BÀI TẬP LẬP TRÌNH MOBILE</string>
+    <string name="title">TÍNH TOÁN CƠ BẢN</string>
+    <string name="title2">CHỌN PHÉP TÍNH CỦA BẠN</string>
+    <string name="input_number1">Nhập số thứ nhất</string>
+    <string name="input_number2">Nhập số thứ hai</string>
+    <string name="data">PHÉP TOÁN</string>
+    <string name="dataResult">KẾT QUẢ</string>
+    <string name="cong">CỘNG</string>
+    <string name="tru">TRỪ</string>
+    <string name="nhan">NHÂN</string>
+    <string name="chia">CHIA</string>
 </resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee2a3db3-016d-439b-842d-d6b17d570466" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CustomEditText.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exno3/app/src/debug/ic_numberA-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exno3/app/src/main/res/drawable/ic_number1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BMICaculator/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BMICaculator/.idea/discord.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exno3/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exno3/.idea/discord.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exno3/app/src/main/java/com/ndthang/exno3/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exno3/app/src/main/java/com/ndthang/exno3/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exno3/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exno3/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2WRjz1o8DiMGUNqwX7fuYe9vKpP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee2a3db3-016d-439b-842d-d6b17d570466" name="Changes" comment="" />
+      <created>1696702545855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696702545855</updated>
+    </task>
+    <servers />
+  </component>
+</project>
