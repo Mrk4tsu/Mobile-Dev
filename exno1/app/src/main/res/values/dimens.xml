@@ -2,5 +2,6 @@
 <resources>
     <dimen name="margin_layout">40sp</dimen>
     <dimen name="text_size">24sp</dimen>
+    <dimen name="text_panel_size">14sp</dimen>
     <dimen name="textView_size">40sp</dimen>
 </resources>

@@ -49,6 +49,7 @@ public class MainActivity extends AppCompatActivity {
                 float num1 = Float.parseFloat(getNumber1);
                 float num2 = Float.parseFloat(getNumber2);
                 float sum = num1 + num2;
+                formatDataInput(num1, num2);
                 math.setText("+");
                 numb1.setText(String.valueOf(num1));
                 numb2.setText(String.valueOf(num2));
