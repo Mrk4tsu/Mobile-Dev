@@ -11,7 +11,7 @@
 
  ### Xử lý sự kiện, giao diện thay đổi kích thước của chữ
  #### DEMO:
- ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1160628776896569475/image.png?ex=65355ac7&is=6522e5c7&hm=c6255f5bfad91834125b78c73973d27eabeb8f4fa7fa6436310524135c47390c&)
+ ![image](https://github.com/Mrk4tsu/Mobile-Dev/blob/exno1/Preview/exno1_1.gif)
 
  ### ex.no.1
  ![image](https://media.discordapp.net/attachments/1023849047045447700/1155367379187011704/image.png?width=1252&height=670)
