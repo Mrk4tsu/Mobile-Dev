@@ -65,21 +65,22 @@
             android:orientation="horizontal"
             android:layout_marginTop="30dp"
             android:background="@drawable/panel2">
+
             <TextView
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_weight="0.1"
-                android:text="SIZE"
-                android:textSize="@dimen/text_panel_size"
                 android:layout_gravity="center"
+                android:layout_marginStart="20dp"
+                android:layout_weight="1.5"
+                android:text="SIZE"
                 android:textAlignment="center"
                 android:textColor="@color/white"
-                android:layout_marginStart="20dp"/>
+                android:textSize="@dimen/text_panel_size" />
             <EditText
                 android:id="@+id/inputSizeFont"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_weight="0.3"
+                android:layout_weight="2.5"
                 android:textColor="@color/white"
                 android:textSize="@dimen/text_panel_size"
                 android:drawableEnd="@drawable/ic_size"
@@ -92,7 +93,7 @@
                 android:id="@+id/btnOKChangeSize"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_weight="0.15"
+                android:layout_weight="1.5"
                 android:text="OK"
                 android:textColor="@color/white"
                 android:textSize="@dimen/text_panel_size"
@@ -104,7 +105,7 @@
                 android:id="@+id/btnAddSizeFont"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_weight="0.15"
+                android:layout_weight="1.5"
                 android:text="+"
                 android:textColor="@color/white"
                 android:textSize="@dimen/text_size"
@@ -116,7 +117,7 @@
                 android:id="@+id/btnMinusSizeFont"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_weight="0.15"
+                android:layout_weight="1.5"
                 android:text="-"
                 android:textColor="@color/white"
                 android:textSize="@dimen/text_size"
@@ -141,7 +142,7 @@
                 <TextView
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
-                    android:layout_weight="0.25"
+                    android:layout_weight="1"
                     android:textSize="@dimen/text_panel_size"
                     android:textColor="@color/white"
                     android:text="RGB 1 :"
@@ -150,37 +151,39 @@
                     android:id="@+id/colorR1"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
-                    android:layout_weight="0.25"
+                    android:layout_weight="1"
                     android:drawableStart="@drawable/ic_r"
                     android:textAlignment="center"
                     android:textColor="@color/white"
                     android:inputType="number"
                     android:maxLength="3"
-                    android:hint="R"
-                    android:textColorHint="@color/color_hint"/>
+                    android:hint="@string/r"
+                    android:textColorHint="@color/color_hint"
+                    android:importantForAutofill="no" />
                 <EditText
                     android:id="@+id/colorG1"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
-                    android:layout_weight="0.25"
+                    android:layout_weight="1"
                     android:drawableStart="@drawable/ic_g"
                     android:textAlignment="center"
                     android:textColor="@color/white"
                     android:inputType="number"
                     android:maxLength="3"
-                    android:hint="G"
-                    android:textColorHint="@color/color_hint"/>
+                    android:hint="@string/g"
+                    android:textColorHint="@color/color_hint"
+                    android:importantForAutofill="no" />
                 <EditText
                     android:id="@+id/colorB1"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
-                    android:layout_weight="0.25"
+                    android:layout_weight="1"
                     android:drawableStart="@drawable/ic_b"
                     android:textAlignment="center"
                     android:textColor="@color/white"
                     android:inputType="number"
                     android:maxLength="3"
-                    android:hint="B"
+                    android:hint="@string/b"
                     android:textColorHint="@color/color_hint"/>
             </LinearLayout>
             <LinearLayout
@@ -191,7 +194,7 @@
                 <TextView
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
-                    android:layout_weight="0.25"
+                    android:layout_weight="1"
                     android:textSize="@dimen/text_panel_size"
                     android:textColor="@color/white"
                     android:text="RGB 2 :"
@@ -200,22 +203,23 @@
                     android:id="@+id/colorR2"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
-                    android:layout_weight="0.25"
+                    android:layout_weight="1"
                     android:drawableStart="@drawable/ic_r"
                     android:textAlignment="center"
                     android:textColor="@color/white"
                     android:inputType="number"
                     android:maxLength="3"
-                    android:hint="R"
-                    android:textColorHint="@color/color_hint"/>
+                    android:hint="@string/r"
+                    android:textColorHint="@color/color_hint"
+                    android:importantForAutofill="no" />
 
                 <EditText
                     android:id="@+id/colorG2"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
-                    android:layout_weight="0.25"
+                    android:layout_weight="1"
                     android:drawableStart="@drawable/ic_g"
-                    android:hint="G"
+                    android:hint="@string/g"
                     android:inputType="number"
                     android:maxLength="3"
                     android:textAlignment="center"
@@ -226,7 +230,7 @@
                     android:id="@+id/colorB2"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
-                    android:layout_weight="0.25"
+                    android:layout_weight="1"
                     android:drawableStart="@drawable/ic_b"
                     android:textAlignment="center"
                     android:textColor="@color/white"
@@ -269,7 +273,7 @@
                 <TextView
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
-                    android:layout_weight="0.25"
+                    android:layout_weight="1"
                     android:textSize="@dimen/text_panel_size"
                     android:textColor="@color/white"
                     android:text="RGB :"
@@ -278,37 +282,37 @@
                     android:id="@+id/colorRFont"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
-                    android:layout_weight="0.25"
+                    android:layout_weight="1"
                     android:drawableStart="@drawable/ic_r"
                     android:textAlignment="center"
                     android:textColor="@color/white"
                     android:inputType="number"
                     android:maxLength="3"
-                    android:hint="R"
+                    android:hint="@string/r"
                     android:textColorHint="@color/color_hint"/>
                 <EditText
                     android:id="@+id/colorGFont"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
-                    android:layout_weight="0.25"
+                    android:layout_weight="1"
                     android:drawableStart="@drawable/ic_g"
                     android:textAlignment="center"
                     android:textColor="@color/white"
                     android:inputType="number"
                     android:maxLength="3"
-                    android:hint="G"
+                    android:hint="@string/g"
                     android:textColorHint="@color/color_hint"/>
                 <EditText
                     android:id="@+id/colorBFont"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
-                    android:layout_weight="0.25"
+                    android:layout_weight="1"
                     android:drawableStart="@drawable/ic_b"
                     android:textAlignment="center"
                     android:textColor="@color/white"
                     android:inputType="number"
                     android:maxLength="3"
-                    android:hint="B"
+                    android:hint="@string/b"
                     android:textColorHint="@color/color_hint"/>
             </LinearLayout>
             <LinearLayout
@@ -319,7 +323,7 @@
                     android:id="@+id/btnChangeColorFont"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:layout_weight="0.5"
+                    android:layout_weight="1"
                     android:text="Đổi"
                     android:textColor="@color/white"
                     android:padding="15dp"
@@ -329,7 +333,7 @@
                     android:id="@+id/btnRandomColorFont"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:layout_weight="0.5"
+                    android:layout_weight="1"
                     android:text="Ngẫu nhiên"
                     android:textColor="@color/white"
                     android:padding="15dp"
@@ -338,7 +342,7 @@
             </LinearLayout>
 
         </LinearLayout>
-        <LinearLayout
+        <Space
             android:layout_width="match_parent"
             android:layout_height="70dp"/>
     </LinearLayout>
