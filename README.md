@@ -11,7 +11,7 @@
 
 ### Xử lý sự kiện, giao diện thay đổi kích thước của chữ
 #### DEMO:
-![image](https://github.com/Mrk4tsu/Mobile-Dev/blob/exno1/Preview/exno1_1.gif)
+<img src="https://github.com/Mrk4tsu/Mobile-Dev/blob/exno1/Preview/exno1_1.gif" width="208" height="368" />
 
 ### Tiến trình:
 * Custom card hiển thị thông tin
@@ -107,7 +107,7 @@ public void onClick(View view) {
 
 ### Xử lý sự kiện, giao diện thay đổi màu card thông tin
 #### DEMO:
-![image](https://github.com/Mrk4tsu/Mobile-Dev/blob/exno1/Preview/exno1_4.gif)
+<img src="https://github.com/Mrk4tsu/Mobile-Dev/blob/exno1/Preview/exno1_4.gif" width="208" height="368" />
 
 ### Tiến trình:
 ```java
