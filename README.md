@@ -174,4 +174,5 @@ int b2 = Integer.parseInt(getB2);
         }
        ```
 - Kết quả sau khi xử lý ngoại lệ
+  
 <img src="https://github.com/Mrk4tsu/Mobile-Dev/blob/exno1/Preview/exno1_3.gif" width="208" height="368" /><img src="https://github.com/Mrk4tsu/Mobile-Dev/blob/exno1/Preview/exno1_2.gif" width="208" height="368" /> 
