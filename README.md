@@ -6,12 +6,11 @@
  - Java SE Development Kit (8u77)
 
  ***Quá trình thực hiện bài tập***
- ### Bài 1: BMI Caculator [Update 10/7 - Thêm xử lý sự kiện]
- ### [Chi tiết bài tập](https://github.com/Mrk4tsu/Mobile-Dev/tree/BMI-Caculator#bmi-caculator-giao-di%E1%BB%87n---%C4%91%C3%A3-c%E1%BA%A3i-thi%E1%BB%87n)
- ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1160140234114211870/image.png?ex=653393ca&is=65211eca&hm=0661e674dd816975c7465ea5b4ef8ec719cf3434c17d752f32bcc42c89d0f118&)
+ ### Update 10/7 - Thêm xử lý sự kiện, Chỉnh sửa design UI
+ ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1160995256079237170/image.png?ex=6536b017&is=65243b17&hm=6858cae24bc308696d9969cc70d2acac9043efcc4fd89c6e9823cfa1c9d30a6e&)
 
- ### Bài 2: ex.no.3 [Update 10/9 - Thêm xử lý sự kiện]
- ### [Chi tiết bài tập](https://github.com/Mrk4tsu/Mobile-Dev/tree/ExNo3#b%C3%A0i-1---about-me-giao-di%E1%BB%87n)
+ ### Xử lý sự kiện, giao diện thay đổi kích thước của chữ
+ #### DEMO:
  ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1160628776896569475/image.png?ex=65355ac7&is=6522e5c7&hm=c6255f5bfad91834125b78c73973d27eabeb8f4fa7fa6436310524135c47390c&)
 
  ### ex.no.1
