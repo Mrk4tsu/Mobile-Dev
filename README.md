@@ -11,7 +11,7 @@
 
 ### Xử lý sự kiện, giao diện thay đổi kích thước của chữ
 #### DEMO:
-![image](https://github.com/Mrk4tsu/Mobile-Dev/blob/exno1/Preview/exno1_1.gif)
+<img src="https://github.com/Mrk4tsu/Mobile-Dev/blob/exno1/Preview/exno1_1.gif" width="208" height="368" />
 
 ### Tiến trình:
 * Custom card hiển thị thông tin
@@ -105,4 +105,74 @@ public void onClick(View view) {
 - Nếu người dùng nhập size > 40, size *labelFontSize* cũng sẽ tự chuyển về 20 và thông báo cho người dùng.
 - Nếu người dùng nhập đúng điều kiện sẽ chuyển đổi kích thước đúng theo người dùng nhập vào.
 
+### Xử lý sự kiện, giao diện thay đổi màu card thông tin
+#### DEMO:
+<img src="https://github.com/Mrk4tsu/Mobile-Dev/blob/exno1/Preview/exno1_4.gif" width="208" height="368" />
 
+### Tiến trình:
+```java
+String getR1 = colorR1.getText().toString();
+String getG1 = colorG1.getText().toString();
+String getB1 = colorB1.getText().toString();
+
+String getR2 = colorR2.getText().toString();
+String getG2 = colorG2.getText().toString();
+String getB2 = colorB2.getText().toString();
+
+int r1 = Integer.parseInt(getR1);
+int g1 = Integer.parseInt(getG1);
+int b1 = Integer.parseInt(getB1);
+
+int r2 = Integer.parseInt(getR2);
+int g2 = Integer.parseInt(getG2);
+int b2 = Integer.parseInt(getB2);
+```
+- Tạo các biến ```String``` để lưu trữ dữ liệu người dùng nhập vào
+- Tạo các biến ```int``` để chuyển dữ liệu người dùng thành dữ liệu số, mục đích để lưu các mã màu (red, blue, green) tương ứng.
+- Sau khi chuyển đổi thành công sẽ xử lý và hiển thị ra màn hình
+  ```java
+  labelHexStart.setText(convertToHex(r1, g1, b1));
+                labelHexEnd.setText(convertToHex(r2, g2, b2));
+                labelHexStart.setTextColor(Color.rgb(r1, g1, b1));
+                labelHexEnd.setTextColor(Color.rgb(r2, g2, b2));
+
+                GradientDrawable gradientDrawable = (GradientDrawable) gradientLayout.getBackground();
+                gradientDrawable.setColors(new int[]{hexColor(r1, b1, g1), hexColor(r2, b2, g2)});
+
+                gradientLayout.setBackground(gradientDrawable);
+  ```
+  * *labelHexStart* sẽ hiển thị mã màu bên trái ra màn hình *labelHexEnd* sẽ là màu bên phải
+  * ```gradientLayout.setBackground(gradientDrawable);``` sẽ chuyển đổi màu
+  * Phương thức *hexColor* trả về kiểu int để setColor
+    ```java
+        int hexColor(int r, int b, int g) {return Color.rgb(r, g, b);}
+    ```
+- Xử lý ngoại lệ:
+  * Xử lý khi người dùng không nhập gì
+    ```java
+        boolean checkRGBValueInput(String... content) {
+        for (String value : content) {
+            if (value.isEmpty()) {
+                return true;
+            }
+        }
+        return false;
+    }
+    ```
+     - Phương thức ```checkRGBValueInput``` cho truyền các *param dạng chuỗi* để kiểm tra có rỗng hay không
+     - Nếu rỗng sẽ trả về cho người dùng 1 toast thông báo, còn ngược lai sẽ xử lý code
+     - Vì màu RGB mỗi mã tối đa sẽ là từ 0 -> 255, nếu nhập quá 255 hoặc dưới 0 sẽ thông báo lại cho người dùng nhập lại
+     - Tạo 1 phương thức để kiểm tra các dữ liệu người dùng nhập vào có đủ điều kiện hay không
+       ```java
+        boolean checkRGBValue(int... num) {
+        for (int value : num) {
+            if (value > 255) {
+                return true;
+            }
+        }
+        return false;
+        }
+       ```
+- Kết quả sau khi xử lý ngoại lệ
+  
+<img src="https://github.com/Mrk4tsu/Mobile-Dev/blob/exno1/Preview/exno1_3.gif" width="208" height="368" /><img src="https://github.com/Mrk4tsu/Mobile-Dev/blob/exno1/Preview/exno1_2.gif" width="208" height="368" /> 
