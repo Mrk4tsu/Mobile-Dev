@@ -191,10 +191,9 @@ public class MainActivity extends AppCompatActivity {
     int hexColor(int r, int b, int g) {
         return Color.rgb(r, g, b);
     }
-
     boolean checkRGBValue(int... num) {
         for (int value : num) {
-            if (value > 255) {
+            if (value < 0 || value > 255) {
                 return true;
             }
         }
