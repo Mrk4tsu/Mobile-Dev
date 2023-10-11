@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
     Button btnAddSizeFont;
     Button btnMinusSizeFont;
     Button btnRandomColorFont;
+    Button btnRandomColorPanel;
 
     float fontSize = 24;
 
@@ -53,6 +54,7 @@ public class MainActivity extends AppCompatActivity {
         changeColorFont();
         upOrDownSize();
         randomColorFont();
+        randomColorPanel();
     }
 
     void randomColorFont() {
@@ -71,7 +73,32 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+    void randomColorPanel(){
+        btnRandomColorPanel.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Random random = new Random();
+                int r1 = random.nextInt(256);
+                colorR1.setText(String.valueOf(r1));
+                int g1 = random.nextInt(256);
+                colorG1.setText(String.valueOf(g1));
+                int b1 = random.nextInt(256);
+                colorB1.setText(String.valueOf(b1));
 
+                int r2 = random.nextInt(256);
+                colorR2.setText(String.valueOf(r2));
+                int g2 = random.nextInt(256);
+                colorG2.setText(String.valueOf(g2));
+                int b2 = random.nextInt(256);
+                colorB2.setText(String.valueOf(b2));
+
+                GradientDrawable gradientDrawable = (GradientDrawable) gradientLayout.getBackground();
+                gradientDrawable.setColors(new int[]{hexColor(r1, b1, g1), hexColor(r2, b2, g2)});
+
+                gradientLayout.setBackground(gradientDrawable);
+            }
+        });
+    }
     void changeColorFont() {
         btnChangeColorFont.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -238,5 +265,6 @@ public class MainActivity extends AppCompatActivity {
         btnMinusSizeFont = findViewById(R.id.btnMinusSizeFont);
         btnChangeColorFont = findViewById(R.id.btnChangeColorFont);
         btnRandomColorFont = findViewById(R.id.btnRandomColorFont);
+        btnRandomColorPanel = findViewById(R.id.btnRandomColorPanel);
     }
 }

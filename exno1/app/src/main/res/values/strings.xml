@@ -2,6 +2,8 @@
     <string name="app_name">BÀI TẬP MOBILE DEV</string>
     <string name="change_font_size">KÍCH THƯỚC CHỮ</string>
     <string name="change_font_color">MÃ MÀU CHỮ</string>
+    <string name="random">NGẪU NHIÊN</string>
+    <string name="change">ĐỔI</string>
     <string name="color_panel">#000000</string>
     <string name="r">R</string>
     <string name="g">G</string>
