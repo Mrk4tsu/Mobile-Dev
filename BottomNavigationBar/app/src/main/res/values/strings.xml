@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Bottom Navigation Bar</string>
-    <string name="home">Home</string>
-    <string name="favorite">Favourite</string>
-    <string name="account">Account</string>
-</resources>
