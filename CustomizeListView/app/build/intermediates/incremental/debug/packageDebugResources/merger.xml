@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res"><file name="ic_launcher_background" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\drawable\ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="ic_launcher_foreground" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\drawable\ic_launcher_foreground.xml" qualifiers="" type="drawable"/><file name="activity_main" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="list_item" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\layout\list_item.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="burger" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\mipmap-hdpi\burger.png" qualifiers="hdpi-v4" type="mipmap"/><file name="cake" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\mipmap-hdpi\cake.png" qualifiers="hdpi-v4" type="mipmap"/><file name="fries" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\mipmap-hdpi\fries.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\mipmap-hdpi\ic_launcher.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\mipmap-hdpi\ic_launcher_round.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="maggi" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\mipmap-hdpi\maggi.png" qualifiers="hdpi-v4" type="mipmap"/><file name="pancake" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\mipmap-hdpi\pancake.png" qualifiers="hdpi-v4" type="mipmap"/><file name="pasta" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\mipmap-hdpi\pasta.png" qualifiers="hdpi-v4" type="mipmap"/><file name="pizza" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\mipmap-hdpi\pizza.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\mipmap-mdpi\ic_launcher.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\mipmap-mdpi\ic_launcher_round.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\mipmap-xhdpi\ic_launcher.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\mipmap-xhdpi\ic_launcher_round.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\mipmap-xxhdpi\ic_launcher.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\mipmap-xxxhdpi\ic_launcher.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\values\colors.xml" qualifiers=""><color name="black">#FF000000</color><color name="white">#FFFFFFFF</color><color name="lavender">#B692F7</color></file><file path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Customize ListView</string><string name="pastaIngredients">Pasta
+\nCream Cheese
+\nParmesan Cheese
+\nOlive Oil
+\nGarlic
+\nSalt Pepper</string><string name="pastaDesc">Cook your pasta until al dente
+\nSaute’ garlic in olive oil until fragrant
+\nAdd cream cheese, pasta cooking water, parmesan, and stir well
+\nDrain and add pasta to the skillet
+\nToss until well combined, adding some pasta water if needed</string><string name="maggiIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string><string name="maggieDesc">Add one and half cup of water
+\nAdd maggi noodles and boil it
+\nAdd the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string><string name="cakeIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string><string name="cakeDesc">Add one and half cup of water
+Add maggi noodles and boil it
+Add the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string><string name="pancakeIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string><string name="pancakeDesc">Add one and half cup of water
+Add maggi noodles and boil it
+Add the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string><string name="pizzaIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string><string name="pizzaDesc">Add one and half cup of water
+Add maggi noodles and boil it
+Add the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string><string name="burgerIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string><string name="burgerDesc">Add one and half cup of water
+\nAdd maggi noodles and boil it
+\nAdd the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string><string name="friesIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string><string name="friesDesc">Add one and half cup of water
+\nAdd maggi noodles and boil it
+\nAdd the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string></file><file path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\values\themes.xml" qualifiers=""><style name="Base.Theme.CustomizeListView" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style><style name="Theme.CustomizeListView" parent="Base.Theme.CustomizeListView"/><style name="roundedImageViewRound">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style></file><file path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Base.Theme.CustomizeListView" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style></file><file name="backup_rules" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\xml\backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\xml\data_extraction_rules.xml" qualifiers="" type="xml"/><file name="activity_detail" path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\main\res\layout\activity_detail.xml" qualifiers="" type="layout"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\ndtha\Documents\GitHub\Mobile-Dev\CustomizeListView\app\build\generated\res\resValues\debug"/></dataSet><mergedItems/></merger>
