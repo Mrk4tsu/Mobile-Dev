@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">NguyenDucThang_63135414_CNTTCLC2</string>
+    <string name="pastaIngredients">Hà Nội</string>
+    <string name="pastaDesc">Việt Nam, quốc hiệu là Cộng hòa xã hội chủ nghĩa Việt Nam
+        \nlà một quốc gia nằm ở cực Đông của bán đảo Đông Dương thuộc khu vực Đông Nam Á,
+        \ngiáp với Lào, Campuchia, Trung Quốc, biển Đông và vịnh Thái Lan.</string>
+    <string name="koreaCapital">Seoul</string>
+    <string name="koreaDesc">Đại Hàn Dân Quốc, gọi tắt là Hàn Quốc, là một quốc gia ở Đông Á;
+        \ncấu thành nửa phía nam của bán đảo Triều Tiên
+        \nvà ngăn cách với Cộng hòa Dân chủ Nhân dân Triều Tiên qua Khu phi quân sự vĩ tuyến 38.
+        \nPhía tây là biển Hoàng Hải, phía nam là biển Hoa Đông còn phía đông là biển Nhật Bản.</string>
+    //cake
+    <string name="japanCapital">Tokyo</string>
+    <string name="japanDesc">Nhật Bản là quốc gia đông thứ 11 thế giới,
+        \nđồng thời là một trong những quốc gia có mật độ dân số và đô thị hóa cao nhất.
+        \nKhoảng 3/4 địa hình của Nhật Bản là đồi núi,
+        \ntập trung dân số 125,44 triệu người trên các đồng bằng nhỏ hẹp ven biển.
+        \nQuốc gia này được chia thành 47 tỉnh thuộc 8 vùng địa lý.
+        \nVùng thủ đô Tokyo là đại đô thị đông dân nhất thế giới.</string>
+    <string name="brazilCapital">Brasilia</string>
+    <string name="brazilDesc">Brazil là quốc gia lớn nhất Nam Mỹ.
+        \nBrasil là quốc gia lớn thứ năm trên thế giới về diện tích
+        \nvà lớn thứ bảy về dân số với hơn 216 triệu người (số liệu 2023).
+        \nBrasil là quốc gia nói tiếng Bồ Đào Nha duy nhất ở châu Mỹ và lớn nhất trên thế giới.</string>
+    <string name="chinaCapital">Bắc Kinh</string>
+    <string name="chinaDesc">Trung Quốc là một quốc gia nằm ở khu vực Đông Á
+        \nvà là một trong hai quốc gia tỷ dân.
+        \nTrung Quốc là quốc gia đơn đảng do Đảng Cộng sản nắm quyền, chính phủ trung ương đặt tại thủ đô Bắc Kinh.
+        \nChính phủ Trung Quốc thi hành quyền tài phán tại 22 tỉnh, 5 khu tự trị, 4 đô thị trực thuộc
+        \nvà 2 đặc khu hành chính là Hồng Kông và Ma Cao.
+        \nChính phủ Trung Quốc cũng tuyên bố chủ quyền đối với tất các vùng lãnh thổ
+        \nnằm dưới sự quản lý của Trung Hoa Dân Quốc, tuyên bố đây là tỉnh thứ 23 dù không kiểm soát trên thực tế,
+        \nchính sách này gây ra nhiều tranh cãi liên quan đến vị thế địa - chính trị Đài Loan.</string>
+    //burgers
+    <string name="russiaCapital">Moskva</string>
+    <string name="russiaDesc">Nga là một quốc gia Cộng hòa Liên bang nằm ở phía Bắc của lục địa Á - Âu,
+        \nđây là quốc gia có diện tích lớn nhất trên thế giới.
+        \nlà một nhà nước cộng hòa liên bang với 85 thực thể liên bang
+        \nNga có biên giới giáp với những quốc gia sau (từ tây bắc đến đông nam): Na Uy, Phần Lan, Estonia, Latvia, Litva và Ba Lan (cả hai đều qua tỉnh Kaliningrad), Belarus, Ukraina, Gruzia, Azerbaijan, Kazakhstan, Trung Quốc, Mông Cổ và Bắc Triều Tiên.
+    </string>
+    //fries
+    <string name="canadaCapital">Ottawa</string>
+    <string name="canadaDesc">Canada là quốc gia có diện tích lớn thứ hai trên thế giới,
+        /nvà nằm ở cực bắc của Bắc Mỹ.
+        /nLãnh thổ Canada gồm 10 tỉnh bang và 3 vùng lãnh thổ liên bang,
+        /ntrải dài từ Đại Tây Dương ở phía đông sang Thái Bình Dương ở phía tây,
+        /nvà giáp Bắc Băng Dương ở phía bắc. Canada giáp với Hoa Kỳ lục địa ở phía nam,
+        /ngiáp với tiểu bang Alaska của Hoa Kỳ ở phía tây bắc.
+        /nỞ phía đông bắc của Canada là đảo Greenland thuộc Vương quốc Đan Mạch.
+        /nỞ ngoài khơi phía nam đảo Newfoundland của Canada có quần đảo Saint-Pierre và Miquelon thuộc Pháp.
+        /nBiên giới chung của Canada với Hoa Kỳ về phía nam và phía tây bắc là đường biên giới dài nhất thế giới.</string>
+</resources>
