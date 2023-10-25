@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\ndtha\\.gradle\\daemon\\8.0\\com.ndthang.customizelistview.app-mergeDebugResources-27:\\layout\\list_item.xml",
+        "source": "C:\\Users\\ndtha\\.gradle\\daemon\\8.0\\com.ndthang.customizelistview.app-main-30:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ndtha\\.gradle\\daemon\\8.0\\com.ndthang.customizelistview.app-mergeDebugResources-27:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ndtha\\.gradle\\daemon\\8.0\\com.ndthang.customizelistview.app-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ndtha\\.gradle\\daemon\\8.0\\com.ndthang.customizelistview.app-mergeDebugResources-27:\\layout\\activity_detail.xml",
+        "source": "C:\\Users\\ndtha\\.gradle\\daemon\\8.0\\com.ndthang.customizelistview.app-main-30:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "com.ndthang.customizelistview.app-mergeDebugResources-27:/layout/activity_detail.xml",
+        "source": "com.ndthang.customizelistview.app-main-30:/layout/activity_detail.xml"
+    }
+]
