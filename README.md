@@ -41,6 +41,18 @@ BUILD FAILED in 12s
 ```
 ![image](https://github.com/Mrk4tsu/Mobile-Dev/blob/FirebaseGeneral/Preview/error.png)
  Lỗi đang gặp xuất phát từ việc có một dependency trong dự án đang yêu cầu sử dụng phiên bản API (compileSdkVersion) của Android ít nhất là 34, nhưng dự án hiện tại đang được biên dịch với API level 33.
+ 
+ ## Có 3 phương pháp để giải quyết nhanh chóng
+ - Cách 1:
+   Trên thanh công cụ chọn **File**->**Project** **Structure**
+   ![image](https://github.com/Mrk4tsu/Mobile-Dev/blob/FirebaseGeneral/Preview/cach1.png)
+   Sau đó, chọn **Modules**, trong mục **Properties** thay đổi **Compile Sdk Version** thành 34
+   ![image](https://github.com/Mrk4tsu/Mobile-Dev/blob/FirebaseGeneral/Preview/cach01.png)
+ - Cách 2:
+ - Cách 3:
+
+
+ 
  ### Bài 2: ex.no.3 [Update 9/10 - Thêm xử lý sự kiện, UI design]
  ### [Chi tiết bài tập](https://github.com/Mrk4tsu/Mobile-Dev/tree/ExNo3#b%C3%A0i-1---about-me-giao-di%E1%BB%87n)
  ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1160628776896569475/image.png?ex=65355ac7&is=6522e5c7&hm=c6255f5bfad91834125b78c73973d27eabeb8f4fa7fa6436310524135c47390c&)
