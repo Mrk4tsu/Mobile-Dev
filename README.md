@@ -6,9 +6,9 @@
  - Java SE Development Kit (8u77)
 
  ***Quá trình thực hiện bài tập***
- ### Bài 1: BMI Caculator [Update 7/10 - Thêm xử lý sự kiện, UI design]
- ### [Chi tiết bài tập](https://github.com/Mrk4tsu/Mobile-Dev/tree/BMI-Caculator#bmi-caculator-giao-di%E1%BB%87n---%C4%91%C3%A3-c%E1%BA%A3i-thi%E1%BB%87n)
- ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1160140234114211870/image.png?ex=653393ca&is=65211eca&hm=0661e674dd816975c7465ea5b4ef8ec719cf3434c17d752f32bcc42c89d0f118&)
+ ### Xử lý lỗi:
+ Lỗi xảy ra khi chạy chương trình
+ ![image](https://github.com/Mrk4tsu/Mobile-Dev/blob/FirebaseGeneral/Preview/error.png)
 
  ### Bài 2: ex.no.3 [Update 9/10 - Thêm xử lý sự kiện, UI design]
  ### [Chi tiết bài tập](https://github.com/Mrk4tsu/Mobile-Dev/tree/ExNo3#b%C3%A0i-1---about-me-giao-di%E1%BB%87n)
