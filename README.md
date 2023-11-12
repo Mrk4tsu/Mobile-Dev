@@ -43,13 +43,13 @@ BUILD FAILED in 12s
  Lỗi đang gặp xuất phát từ việc có một dependency trong dự án đang yêu cầu sử dụng phiên bản API (compileSdkVersion) của Android ít nhất là 34, nhưng dự án hiện tại đang được biên dịch với API level 33.
  
  ## Có 3 phương pháp để giải quyết nhanh chóng
- - Cách 1:
+ - #### Cách 1:
    Trên thanh công cụ chọn **File**->**Project** **Structure**
    ![image](https://github.com/Mrk4tsu/Mobile-Dev/blob/FirebaseGeneral/Preview/cach1.png)
    Sau đó, chọn **Modules**, trong mục **Properties** thay đổi **Compile Sdk Version** thành 34
    ![image](https://github.com/Mrk4tsu/Mobile-Dev/blob/FirebaseGeneral/Preview/cach01.png)
- - Cách 2:
- - Cách 3:
+ - #### Cách 2:
+ - #### Cách 3:
 
 
  
