@@ -7,9 +7,40 @@
 
  ***Quá trình thực hiện bài tập***
  ### Xử lý lỗi:
- Lỗi xảy ra khi chạy chương trình
- ![image](https://github.com/Mrk4tsu/Mobile-Dev/blob/FirebaseGeneral/Preview/error.png)
+ ### Lỗi Build
 
+Khi bạn cố gắng xây dựng dự án, bạn có thể gặp lỗi sau:
+
+```bash
+FAILURE: Build failed with an exception.
+* What went wrong:
+Execution failed for task ':app:checkDebugAarMetadata'.
+> A failure occurred while executing com.android.build.gradle.internal.tasks.CheckAarMetadataWorkAction
+   > An issue was found when checking AAR metadata:
+     
+       1.  Dependency 'androidx.activity:activity:1.8.0' requires libraries and applications that
+           depend on it to compile against version 34 or later of the
+           Android APIs.
+     
+           :app is currently compiled against android-33.
+     
+           Recommended action: Update this project to use a newer compileSdk
+           of at least 34, for example 34.
+     
+           Note that updating a library or application's compileSdk (which
+           allows newer APIs to be used) can be done separately from updating
+           targetSdk (which opts the app in to new runtime behavior) and
+           minSdk (which determines which devices the app can be installed
+           on).
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+* Get more help at https://help.gradle.org
+BUILD FAILED in 12s
+```
+![image](https://github.com/Mrk4tsu/Mobile-Dev/blob/FirebaseGeneral/Preview/error.png)
+ Lỗi đang gặp xuất phát từ việc có một dependency trong dự án đang yêu cầu sử dụng phiên bản API (compileSdkVersion) của Android ít nhất là 34, nhưng dự án hiện tại đang được biên dịch với API level 33.
  ### Bài 2: ex.no.3 [Update 9/10 - Thêm xử lý sự kiện, UI design]
  ### [Chi tiết bài tập](https://github.com/Mrk4tsu/Mobile-Dev/tree/ExNo3#b%C3%A0i-1---about-me-giao-di%E1%BB%87n)
  ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1160628776896569475/image.png?ex=65355ac7&is=6522e5c7&hm=c6255f5bfad91834125b78c73973d27eabeb8f4fa7fa6436310524135c47390c&)
