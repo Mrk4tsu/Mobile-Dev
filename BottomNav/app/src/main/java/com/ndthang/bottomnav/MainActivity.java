@@ -24,7 +24,10 @@ public class MainActivity extends AppCompatActivity {
         viewPager = findViewById(R.id.view_fragment);
 
         setUpViewPager();
-        navigationView.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
+        setNavigationViewListener();
+    }
+    void setNavigationViewListener(){
+        navigationView.setOnItemSelectedListener(new NavigationBarView.OnItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
                 if (item.getItemId() == R.id.action_home){

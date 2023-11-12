@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "253161374240",
+    "firebase_url": "https://listtodo-36c1c-default-rtdb.firebaseio.com",
+    "project_id": "listtodo-36c1c",
+    "storage_bucket": "listtodo-36c1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253161374240:android:e8f78b070cc116680e7245",
+        "android_client_info": {
+          "package_name": "com.ndthang.listtodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD51fWNfrMvFJJEMp_XuGV3ogGf9MA-D6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
