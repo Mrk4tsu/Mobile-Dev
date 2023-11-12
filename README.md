@@ -44,22 +44,23 @@ BUILD FAILED in 12s
  
  ## Có 3 phương pháp để giải quyết nhanh chóng
  - #### Cách 1:
-   Trên thanh công cụ chọn **File**->**Project** **Structure**
+   Trên thanh công cụ chọn **File**->**Project** **Structure**\
    ![image](https://github.com/Mrk4tsu/Mobile-Dev/blob/FirebaseGeneral/Preview/cach1.png)
-   Sau đó, chọn **Modules**, trong mục **Properties** thay đổi **Compile Sdk Version** thành 34
+   Sau đó, chọn **Modules**, trong mục **Properties** thay đổi **Compile Sdk Version** thành 34\
    ![image](https://github.com/Mrk4tsu/Mobile-Dev/blob/FirebaseGeneral/Preview/cach01.png)
  - #### Cách 2:
    
-   Ở danh sách các thư mục của dự án, chọn vào **build.gradle.kts(Module:app)**
+   Ở danh sách các thư mục của dự án, chọn vào **build.gradle.kts(Module:app)**\
    ![image](https://github.com/Mrk4tsu/Mobile-Dev/blob/FirebaseGeneral/Preview/cach2.png)
 
-   Để ý ở đây **android** **compileSdk** đang là 33
+   Để ý ở đây **android** **compileSdk** đang là 33\
+   
    ![image](https://github.com/Mrk4tsu/Mobile-Dev/blob/FirebaseGeneral/Preview/cach3.png)
    
-   Chỉ cần sửa lại thành 34 và chọn **Sync Now** để gradle đồng bộ
+   Chỉ cần sửa lại thành 34 và chọn **Sync Now** để gradle đồng bộ\
    ![image](https://github.com/Mrk4tsu/Mobile-Dev/blob/FirebaseGeneral/Preview/syncnow.png)
  - #### Cách 3:
-   Vẫn ở trong mục **build.gradle.kts(Module:app)**, dự án có 1 đoạn config **dependencies**, ở đây là các thư viện mà dự án mình đang sử dụng. Hãy để ý phần **material:material** của dự án. Ở đây chúng ta có thể chuyển version của **material:material** về cùng với version của **appcompat(1.6.1)**
+   Vẫn ở trong mục **build.gradle.kts(Module:app)**, dự án có 1 đoạn config **dependencies**, ở đây là các thư viện mà dự án mình đang sử dụng. Hãy để ý phần **material:material** của dự án. Ở đây chúng ta có thể chuyển version của **material:material** về cùng với version của **appcompat(1.6.1)**\
    <img src="[https://github.com/Mrk4tsu/Mobile-Dev/blob/exno1/Preview/exno1_3.gif](https://github.com/Mrk4tsu/Mobile-Dev/blob/FirebaseGeneral/Preview/cach02.png)" width="300" /><img src="https://github.com/Mrk4tsu/Mobile-Dev/blob/FirebaseGeneral/Preview/cach002.png" width="300" />
  
  ### Bài 2: ex.no.3 [Update 9/10 - Thêm xử lý sự kiện, UI design]
