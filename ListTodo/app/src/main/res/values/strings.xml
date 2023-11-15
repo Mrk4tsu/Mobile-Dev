@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">ListTodo</string>
+    <string name="app_name">My Application</string>
+    <string name="name">Name</string>
+    <string name="message">Message</string>
+    <string name="date">Date</string>
+    <string name="priority">Priority</string>
+    <string name="submit">Thêm</string>
 </resources>

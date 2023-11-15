@@ -1,22 +1,22 @@
 {
   "project_info": {
-    "project_number": "253161374240",
-    "firebase_url": "https://listtodo-36c1c-default-rtdb.firebaseio.com",
-    "project_id": "listtodo-36c1c",
-    "storage_bucket": "listtodo-36c1c.appspot.com"
+    "project_number": "882681669970",
+    "firebase_url": "https://my-application-31d9a-default-rtdb.firebaseio.com",
+    "project_id": "my-application-31d9a",
+    "storage_bucket": "my-application-31d9a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:253161374240:android:e8f78b070cc116680e7245",
+        "mobilesdk_app_id": "1:882681669970:android:5b70983dc118f00c59f28b",
         "android_client_info": {
-          "package_name": "com.ndthang.listtodo"
+          "package_name": "com.example.myapplication"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyD51fWNfrMvFJJEMp_XuGV3ogGf9MA-D6k"
+          "current_key": "AIzaSyDf2aLyAE81fMlMKr9EBQBhy_xCuUFooKo"
         }
       ],
       "services": {
