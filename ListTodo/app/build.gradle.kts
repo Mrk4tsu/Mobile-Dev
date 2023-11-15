@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.ndthang.listtodo"
+    namespace = "com.example.myapplication"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.ndthang.listtodo"
+        applicationId = "com.example.myapplication"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
@@ -32,7 +32,7 @@ android {
 dependencies {
 
     implementation("androidx.appcompat:appcompat:1.6.1")
-    implementation("com.google.android.material:material:1.6.0")
+    implementation("com.google.android.material:material:1.8.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     implementation("com.google.firebase:firebase-database:20.3.0")
     testImplementation("junit:junit:4.13.2")
