@@ -8,27 +8,28 @@
  ***Quá trình thực hiện bài tập***
  ### Realtime Database: Việc cần làm (Firebase)
  #### [Chi tiết bài tập](https://github.com/Mrk4tsu/Mobile-Dev/tree/FirebaseGeneral#63cntt-mobile-dev-l%E1%BA%ADp-tr%C3%ACnh-%E1%BB%A9ng-d%E1%BB%A5ng-mobile)
- ![image](https://cdn.discordapp.com/attachments/1021667948542312455/1174418457429823488/Screenshot_2023-11-16_013247.png?ex=6567856b&is=6555106b&hm=9408eef3d0d667c22ff4652f2f79e5806a4710c2a8577af986fb7bff65114b6e&)
+<img src="https://github.com/Mrk4tsu/Mobile-Dev/assets/120944583/f43a5fcf-e0f9-4e65-8165-4e114b4f3e76" width="720" />
  
  ### Bài 5: 9* LinearLayout
  #### [Chi tiết bài tập](https://github.com/Mrk4tsu/Mobile-Dev/tree/Bai9-LinearLayout#63cntt-mobile-dev-l%E1%BA%ADp-tr%C3%ACnh-%E1%BB%A9ng-d%E1%BB%A5ng-mobile)
- ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1155480862167670866/image.png)
+<img src="https://github.com/Mrk4tsu/Mobile-Dev/assets/120944583/e78c7b4f-a41c-45db-8b3a-ba7668ebea52" width="720" />
  
   ### Bài 4: 8* LinearLayout
  #### [Chi tiết bài tập](https://github.com/Mrk4tsu/Mobile-Dev/tree/ex.no.1#63cntt-mobile-dev-l%E1%BA%ADp-tr%C3%ACnh-%E1%BB%A9ng-d%E1%BB%A5ng-mobile)
- ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1155384740745068544/image.png)
+<img src="https://github.com/Mrk4tsu/Mobile-Dev/assets/120944583/17221020-c980-4d18-8b79-ac622602188d" width="720" />
+
  
  ### Bài 3: ex.no.1 [Update 10/10 - Thêm xử lý sự kiện, UI design]
  #### [Chi tiết bài tập](https://github.com/Mrk4tsu/Mobile-Dev/tree/exno1#b%C3%A0i-1-bmi-caculator-update-107---th%C3%AAm-x%E1%BB%AD-l%C3%BD-s%E1%BB%B1-ki%E1%BB%87n)
- ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1160995256079237170/image.png?ex=6536b017&is=65243b17&hm=6858cae24bc308696d9969cc70d2acac9043efcc4fd89c6e9823cfa1c9d30a6e&)
+<img src="https://github.com/Mrk4tsu/Mobile-Dev/assets/120944583/142ba8df-9b9d-4d58-80a6-d471e7955d04" width="720" />
  
   ### Bài 2: ex.no.3 [Update 9/10 - Thêm xử lý sự kiện, UI design]
  #### [Chi tiết bài tập](https://github.com/Mrk4tsu/Mobile-Dev/tree/ExNo3#b%C3%A0i-1---about-me-giao-di%E1%BB%87n)
- ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1160628776896569475/image.png?ex=65355ac7&is=6522e5c7&hm=c6255f5bfad91834125b78c73973d27eabeb8f4fa7fa6436310524135c47390c&)
- 
+<img src="https://github.com/Mrk4tsu/Mobile-Dev/assets/120944583/178f9f4f-7d01-4f32-890e-52bff7562627" width="720" />
+
  ### Bài 1: BMI Caculator [Update 7/10 - Thêm xử lý sự kiện, UI design]
  #### [Chi tiết bài tập](https://github.com/Mrk4tsu/Mobile-Dev/tree/BMI-Caculator#bmi-caculator-giao-di%E1%BB%87n---%C4%91%C3%A3-c%E1%BA%A3i-thi%E1%BB%87n)
- ![image](https://cdn.discordapp.com/attachments/1023849047045447700/1160140234114211870/image.png?ex=653393ca&is=65211eca&hm=0661e674dd816975c7465ea5b4ef8ec719cf3434c17d752f32bcc42c89d0f118&)
+<img src="https://github.com/Mrk4tsu/Mobile-Dev/assets/120944583/cecfdd23-f758-4fdb-91c3-7e378a12f424" width="720" />
 
  ### Xử lý lỗi khi sử dụng IDE:
  #### [Lỗi version](https://github.com/Mrk4tsu/Mobile-Dev/tree/FirebaseGeneral#l%E1%BB%97i-build)
