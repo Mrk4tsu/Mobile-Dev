@@ -4,7 +4,10 @@
  - Android Studio
  - Android 7.0 (Nougat API 24)
  - Java SE Development Kit (8u77)
-
+   
+ ***Mô tả***
+ #### Đây là kho lưu trữ bài tập khi tôi làm bài tập lớn và nhỏ, đây là kho lưu trữ tham khảo, không phải dự án lâu dài hoặc có thể sử dụng.
+ 
  ***Quá trình thực hiện bài tập***
  ### Realtime Database: Việc cần làm (Firebase)
  #### [Chi tiết bài tập](https://github.com/Mrk4tsu/Mobile-Dev/tree/FirebaseGeneral#63cntt-mobile-dev-l%E1%BA%ADp-tr%C3%ACnh-%E1%BB%A9ng-d%E1%BB%A5ng-mobile)
